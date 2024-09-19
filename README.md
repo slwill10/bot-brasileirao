@@ -9,6 +9,7 @@
 ## Clonar o Repositório
 
 git clone https://github.com/slwill10/bot-brasileirao.git
+
 cd bot-brasileirao
 
 # Instalação das Dependências
