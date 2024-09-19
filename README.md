@@ -1,6 +1,6 @@
 # Bot de Telegram - Notícias do Brasileirão
 
-## Este projeto é um bot do Telegram que realiza web scraping para extrair as últimas notícias do Campeonato Brasileiro (Brasileirão) e as envia para um grupo do Telegram automaticamente. Utiliza as bibliotecas Requests e BeautifulSoup para extrair as informações de sites de notícias e a API do Telegram para enviar as atualizações.
+Este projeto é um bot do Telegram que realiza web scraping para extrair as últimas notícias do Campeonato Brasileiro (Brasileirão) e as envia para um grupo do Telegram automaticamente. Utiliza as bibliotecas Requests e BeautifulSoup para extrair as informações de sites de notícias e a API do Telegram para enviar as atualizações.
 
 # Funcionalidades
 - Scraping das últimas notícias sobre o Brasileirão de fontes confiáveis.
